@@ -1,7 +1,7 @@
 # TestingTDD
 
 ### 1. Apa saja manfaat automated testing?
-a. Memastikan aplikasi berjalan sebagaimana mestinya
+a. Memastikan aplikasi berjalan sebagaimana mestinya /n
 b. Mendeteksi terjadinya error serta memvalidasi apakah sudah memenuhi keinginan user
 c. Melakukan pengecekan/pengetesan entitas-entitas, termasuk software,untuk pemenuhan dan konsistensi dengan melakukan evaluasi hasil terhadap kebutuhan yang telah ditetapkan
 d. Melakukan validasi  untuk dapat melihat kebenaran sistem, apakah proses yang telah ditulis dalam spesifikasi adalah apa yang sebenarnya.
